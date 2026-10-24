@@ -1,0 +1,117 @@
+{
+  "currency": "USD",
+  "fx": {
+    "base": "GBP",
+    "quote": "USD",
+    "rate": "1.5688",
+    "date": "2011-12-09",
+    "method": "Fixed dataset-end reference rate; not transaction-day or current FX",
+    "source": "Frankfurter v1 historical reference rate",
+    "source_url": "https://api.frankfurter.dev/v1/2011-12-09?base=GBP&symbols=USD"
+  },
+  "metrics": {
+    "gross_sales": 16695281.58,
+    "returns": 1402473.81,
+    "net_sales": 15292807.77,
+    "orders": 19960,
+    "customers": 4338,
+    "average_order_value": 836.4369529058116,
+    "return_value_rate": 8.400420222202685
+  },
+  "monthly": [
+    {
+      "month": "2010-12",
+      "net_sales": 1171445.98
+    },
+    {
+      "month": "2011-01",
+      "net_sales": 876088.35
+    },
+    {
+      "month": "2011-02",
+      "net_sales": 779730.32
+    },
+    {
+      "month": "2011-03",
+      "net_sales": 1069940.04
+    },
+    {
+      "month": "2011-04",
+      "net_sales": 772422.22
+    },
+    {
+      "month": "2011-05",
+      "net_sales": 1132819.59
+    },
+    {
+      "month": "2011-06",
+      "net_sales": 1082434.92
+    },
+    {
+      "month": "2011-07",
+      "net_sales": 1067027.13
+    },
+    {
+      "month": "2011-08",
+      "net_sales": 1103664.32
+    },
+    {
+      "month": "2011-09",
+      "net_sales": 1596402.31
+    },
+    {
+      "month": "2011-10",
+      "net_sales": 1677619.31
+    },
+    {
+      "month": "2011-11",
+      "net_sales": 2284394.92
+    },
+    {
+      "month": "2011-12",
+      "net_sales": 678818.36
+    }
+  ],
+  "countries": [
+    {
+      "Country": "United Kingdom",
+      "net_sales": 12847245.29
+    },
+    {
+      "Country": "Netherlands",
+      "net_sales": 446577.69
+    },
+    {
+      "Country": "EIRE",
+      "net_sales": 412582.59
+    },
+    {
+      "Country": "Germany",
+      "net_sales": 347502.82
+    },
+    {
+      "Country": "France",
+      "net_sales": 309549.32
+    },
+    {
+      "Country": "Australia",
+      "net_sales": 214941.3
+    },
+    {
+      "Country": "Switzerland",
+      "net_sales": 88421.72
+    },
+    {
+      "Country": "Spain",
+      "net_sales": 85900.88
+    },
+    {
+      "Country": "Belgium",
+      "net_sales": 64180.55
+    },
+    {
+      "Country": "Sweden",
+      "net_sales": 57394.98
+    }
+  ]
+}

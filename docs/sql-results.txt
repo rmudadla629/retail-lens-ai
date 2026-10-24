@@ -1,0 +1,54 @@
+
+Analysis 1
+ gross_sales_usd  cancellation_value_usd  net_sales_usd  purchase_orders
+     16695281.58              1402473.81    15292807.77            19960
+
+Analysis 2
+  month  net_sales_usd
+2010-12     1171445.98
+2011-01      876088.35
+2011-02      779730.32
+2011-03     1069940.04
+2011-04      772422.22
+2011-05     1132819.59
+2011-06     1082434.92
+2011-07     1067027.13
+2011-08     1103664.32
+2011-09     1596402.31
+2011-10     1677619.31
+2011-11     2284394.92
+2011-12      678818.36
+
+Analysis 3
+       Country  net_sales_usd  net_sales_share_pct
+United Kingdom    12847245.29                84.01
+   Netherlands      446577.69                 2.92
+          EIRE      412582.59                 2.70
+       Germany      347502.82                 2.27
+        France      309549.32                 2.02
+     Australia      214941.30                 1.41
+   Switzerland       88421.72                 0.58
+         Spain       85900.88                 0.56
+       Belgium       64180.55                 0.42
+        Sweden       57394.98                 0.38
+
+Analysis 4
+StockCode                        Description  gross_sales_usd  returns_usd  net_sales_usd
+      DOT                     DOTCOM POSTAGE        323563.03         5.16      323557.87
+    22423           REGENCY CAKESTAND 3 TIER        273213.72     15212.62      258001.10
+    47566                      PARTY BUNTING        156008.76      1884.68      154124.08
+   85123A WHITE HANGING HEART T-LIGHT HOLDER        163602.59     10392.21      153210.38
+   85099B            JUMBO BAG RED RETROSPOT        147717.58      3112.50      144605.08
+    23084                 RABBIT NIGHT LIGHT        104906.75       326.95      104579.80
+     POST                            POSTAGE        122527.38     18623.65      103903.73
+    22086     PAPER CHAIN KIT 50'S CHRISTMAS        101778.35      1820.37       99957.98
+    84879      ASSORTED COLOUR BIRD ORNAMENT         92445.29       212.10       92233.19
+    79321                      CHILLI LIGHTS         84865.73       548.61       84317.12
+
+Analysis 5
+ average_purchase_order_value_usd
+                           836.44
+
+Analysis 6
+ anonymous_lines  anonymous_net_sales_usd
+          132565               2305525.79

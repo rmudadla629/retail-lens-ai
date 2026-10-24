@@ -1,0 +1,107 @@
+{
+  "metrics": {
+    "gross_sales": 10642110.8,
+    "returns": 893979.73,
+    "net_sales": 9748131.07,
+    "orders": 19960,
+    "customers": 4338,
+    "average_order_value": 533.1718837675351,
+    "return_value_rate": 8.40039863144443
+  },
+  "monthly": [
+    {
+      "month": "2010-12",
+      "net_sales": 746723.61
+    },
+    {
+      "month": "2011-01",
+      "net_sales": 558448.56
+    },
+    {
+      "month": "2011-02",
+      "net_sales": 497026.41
+    },
+    {
+      "month": "2011-03",
+      "net_sales": 682013.98
+    },
+    {
+      "month": "2011-04",
+      "net_sales": 492367.84
+    },
+    {
+      "month": "2011-05",
+      "net_sales": 722094.1
+    },
+    {
+      "month": "2011-06",
+      "net_sales": 689977.23
+    },
+    {
+      "month": "2011-07",
+      "net_sales": 680156.99
+    },
+    {
+      "month": "2011-08",
+      "net_sales": 703510.58
+    },
+    {
+      "month": "2011-09",
+      "net_sales": 1017596.68
+    },
+    {
+      "month": "2011-10",
+      "net_sales": 1069368.23
+    },
+    {
+      "month": "2011-11",
+      "net_sales": 1456145.8
+    },
+    {
+      "month": "2011-12",
+      "net_sales": 432701.06
+    }
+  ],
+  "countries": [
+    {
+      "Country": "United Kingdom",
+      "net_sales": 8189252.3
+    },
+    {
+      "Country": "Netherlands",
+      "net_sales": 284661.54
+    },
+    {
+      "Country": "EIRE",
+      "net_sales": 262993.38
+    },
+    {
+      "Country": "Germany",
+      "net_sales": 221509.47
+    },
+    {
+      "Country": "France",
+      "net_sales": 197317.11
+    },
+    {
+      "Country": "Australia",
+      "net_sales": 137009.77
+    },
+    {
+      "Country": "Switzerland",
+      "net_sales": 56363.05
+    },
+    {
+      "Country": "Spain",
+      "net_sales": 54756.03
+    },
+    {
+      "Country": "Belgium",
+      "net_sales": 40910.96
+    },
+    {
+      "Country": "Sweden",
+      "net_sales": 36585.41
+    }
+  ]
+}

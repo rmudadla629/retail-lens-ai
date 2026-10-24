@@ -1,0 +1,9 @@
+{
+  "base": "GBP",
+  "quote": "USD",
+  "rate": "1.5688",
+  "date": "2011-12-09",
+  "method": "Fixed dataset-end reference rate; not transaction-day or current FX",
+  "source": "Frankfurter v1 historical reference rate",
+  "source_url": "https://api.frankfurter.dev/v1/2011-12-09?base=GBP&symbols=USD"
+}
