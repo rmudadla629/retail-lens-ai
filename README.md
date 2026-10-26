@@ -4,6 +4,10 @@
 
 Python · Streamlit · Pandas · Plotly · SQL · Groq / Gemini / OpenAI
 
+**[Open the Live Dashboard](https://retail-lens-ai-rmudadla629.streamlit.app/)** · [Read the case study](docs/case-study.md)
+
+Deployed on Streamlit Community Cloud. Explore the charts and filters, then open **Ask AI** to try an analysis. AI availability depends on provider quotas; guided mode is also available.
+
 ![Retail Lens AI dashboard](docs/images/dashboard.png)
 
 One standalone project, built around a real business question: **where are sales coming from, which products lead, and how much value is lost to cancellations?**
@@ -35,7 +39,7 @@ streamlit run app.py
 
 On Windows, activate with `.venv\Scripts\activate`.
 
-The dashboard works immediately in guided mode without an API key. A public live demo has not been deployed yet.
+The dashboard works immediately in guided mode without an API key. Try the [public live dashboard](https://retail-lens-ai-rmudadla629.streamlit.app/) without installing anything.
 
 ## Enable real AI
 
@@ -110,8 +114,8 @@ docs/                     Case study, screenshots, deployment guide
 
 ## Showcase it
 
-1. Publish this folder as its own GitHub repository.
-2. Add a deployed Streamlit URL to the repository's About field once available.
+1. Share the [live dashboard](https://retail-lens-ai-rmudadla629.streamlit.app/) and this GitHub repository on your résumé or portfolio.
+2. Open the dashboard to demonstrate interactive filters, product rankings, and AI evidence.
 3. Use the screenshot and [60-second demo script](docs/case-study.md) on LinkedIn.
 4. Explain the cleaning choices, cancellation treatment, and AI evidence workflow in interviews.
 
